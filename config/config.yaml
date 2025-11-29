@@ -1,0 +1,18 @@
+# Config for kasparro-agentic-fb-analyst
+data:
+random_seed: 42
+data:
+  # Using a small sample CSV included in the repository for quick runs
+  path: "data/synthetic_fb_ads_undergarments.csv"
+  sample_mode: true
+thresholds:
+  low_ctr: 0.02         # campaigns with CTR below this are considered for creative generation
+  significant_roas_drop: 0.2  # 20% drop considered notable
+analysis:
+  recent_window_days: 14
+  prior_window_days: 14
+output:
+  reports_dir: "c:\\Users\\vinay\\Downloads\\drive-download-20251129T151942Z-1-001\\reports"
+  logs_dir: "c:\\Users\\vinay\\Downloads\\drive-download-20251129T151942Z-1-001\\logs"
+seeds:
+  random: 42

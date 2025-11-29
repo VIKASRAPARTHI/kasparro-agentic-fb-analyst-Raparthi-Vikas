@@ -1,0 +1,470 @@
+[
+  {
+    "campaign_name": "Men Bold Colors Drop",
+    "creative_recommendations": [
+      {
+        "id": "Men Bo_C1",
+        "headline": "Summer\u2011ready essentials \u2014 sweat\u2011wicking men athletic Limited Run",
+        "body": "Confidence starts inside \u2014 elevate with men briefs. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Learn more",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "Men Bo_C2",
+        "headline": "Breathable bamboo that moves with you Try Today",
+        "body": "Push comfort, not wires \u2014 everyday men boxers. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Get yours",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "Men Bo_C3",
+        "headline": "Confidence starts inside \u2014 elevate with Limited Run",
+        "body": "Summer\u2011ready essentials \u2014 sweat\u2011wicking men trunks. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Shop now",
+        "rationale": "Variation derived from top-performing message patterns"
+      }
+    ]
+  },
+  {
+    "campaign_name": "women Summer Invisible",
+    "creative_recommendations": [
+      {
+        "id": "women _C1",
+        "headline": "Seamless confidence for every day \u2014 Limited Run",
+        "body": "Seamless confidence for every day \u2014 new women sports bras. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Shop now",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "women _C2",
+        "headline": "Seamless confidence for every day \u2014 Limited Run",
+        "body": "Ultra\u2011soft waistband, no marks \u2014 premium women bras. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Get yours",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "women _C3",
+        "headline": "Confidence starts inside \u2014 elevate with \u2014 Now 20% Off",
+        "body": "Breathable microfiber that moves with you \u2014 limited offer on women wire\u2011free bras. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Get yours",
+        "rationale": "Variation derived from top-performing message patterns"
+      }
+    ]
+  },
+  {
+    "campaign_name": "Men Premium Modal",
+    "creative_recommendations": [
+      {
+        "id": "Men Pr_C1",
+        "headline": "Hot & comfy: men athletic briefs Try Today",
+        "body": "Push comfort, not wires \u2014 everyday men athletic briefs. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Limited time",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "Men Pr_C2",
+        "headline": "Confidence starts inside \u2014 elevate with Best Seller",
+        "body": "All\u2011day comfort, zero pinch \u2014 try our men trunks! \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Learn more",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "Men Pr_C3",
+        "headline": "Doctors recommend breathable modal \u2014 meet Try Today",
+        "body": "Hot & comfy: men athletic briefs now 20% off \u2014 feel the difference. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Shop now",
+        "rationale": "Variation derived from top-performing message patterns"
+      }
+    ]
+  },
+  {
+    "campaign_name": "WOMEN Cotton Classics",
+    "creative_recommendations": [
+      {
+        "id": "WOMEN _C1",
+        "headline": "Cooling mesh panels for workouts \u2014 Try Today",
+        "body": "Stretch that snaps back \u2014 durable women bras. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Shop now",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "WOMEN _C2",
+        "headline": "Breathable cotton that moves with you Limited Run",
+        "body": "Doctors recommend breathable microfiber \u2014 meet our women sports bras. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Get yours",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "WOMEN _C3",
+        "headline": "Push comfort, not wires \u2014 everyday Best Seller",
+        "body": "Breathable cotton that moves with you \u2014 limited offer on women wire\u2011free bras. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Learn more",
+        "rationale": "Variation derived from top-performing message patterns"
+      }
+    ]
+  },
+  {
+    "campaign_name": "WOMEN Seamless Everyday",
+    "creative_recommendations": [
+      {
+        "id": "WOMEN _C1",
+        "headline": "Confidence starts inside \u2014 elevate with Limited Run",
+        "body": "Breathable modal that moves with you \u2014 limited offer on women panties. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Limited time",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "WOMEN _C2",
+        "headline": "Push comfort, not wires \u2014 everyday Limited Run",
+        "body": "Summer\u2011ready essentials \u2014 sweat\u2011wicking women panties. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Limited time",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "WOMEN _C3",
+        "headline": "Confidence starts inside \u2014 elevate with Best Seller",
+        "body": "Breathable modal that moves with you \u2014 limited offer on women panties. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Shop now",
+        "rationale": "Variation derived from top-performing message patterns"
+      }
+    ]
+  },
+  {
+    "campaign_name": "Women Fit & Lift",
+    "creative_recommendations": [
+      {
+        "id": "Women _C1",
+        "headline": "Stretch that snaps back \u2014 durable Limited Run",
+        "body": "Doctors recommend breathable organic cotton \u2014 meet our women panties. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Get yours",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "Women _C2",
+        "headline": "Stretch that snaps back \u2014 durable \u2014 Now 20% Off",
+        "body": "Seamless confidence for every day \u2014 new women sports bras. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Get yours",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "Women _C3",
+        "headline": "Doctors recommend breathable microfiber \u2014 meet Try Today",
+        "body": "Summer\u2011ready essentials \u2014 sweat\u2011wicking women panties. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Get yours",
+        "rationale": "Variation derived from top-performing message patterns"
+      }
+    ]
+  },
+  {
+    "campaign_name": "Women | Studio Sports",
+    "creative_recommendations": [
+      {
+        "id": "Women _C1",
+        "headline": "Hot & comfy: women boyshorts now Try Today",
+        "body": "Seamless confidence for every day \u2014 new women panties. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Get yours",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "Women _C2",
+        "headline": "No ride\u2011up guarantee \u2014 best\u2011selling women Best Seller",
+        "body": "Cooling mesh panels for workouts \u2014 women panties you\u2019ll actually love. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Limited time",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "Women _C3",
+        "headline": "No ride\u2011up guarantee \u2014 best\u2011selling women Best Seller",
+        "body": "Seamless confidence for every day \u2014 new women panties. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Shop now",
+        "rationale": "Variation derived from top-performing message patterns"
+      }
+    ]
+  },
+  {
+    "campaign_name": "Men ComfortMax Launch",
+    "creative_recommendations": [
+      {
+        "id": "Men Co_C1",
+        "headline": "3\u2011pack deal ends tonight \u2014 upgrade Best Seller",
+        "body": "Summer\u2011ready essentials \u2014 sweat\u2011wicking men inner vests. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Get yours",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "Men Co_C2",
+        "headline": "Cooling mesh panels for workouts \u2014 Try Today",
+        "body": "Hot & comfy: men boxers now 20% off \u2014 feel the difference. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Shop now",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "Men Co_C3",
+        "headline": "Seamless confidence for every day \u2014 Limited Run",
+        "body": "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Shop now",
+        "rationale": "Variation derived from top-performing message patterns"
+      }
+    ]
+  },
+  {
+    "campaign_name": "MEN Signature Soft",
+    "creative_recommendations": [
+      {
+        "id": "MEN Si_C1",
+        "headline": "Hot & comfy: men briefs now Try Today",
+        "body": "Ultra\u2011soft waistband, no marks \u2014 premium men athletic briefs. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Shop now",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "MEN Si_C2",
+        "headline": "Breathable modal that moves with you Best Seller",
+        "body": "Push comfort, not wires \u2014 everyday men briefs. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Limited time",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "MEN Si_C3",
+        "headline": "Cooling mesh panels for workouts \u2014 Best Seller",
+        "body": "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Get yours",
+        "rationale": "Variation derived from top-performing message patterns"
+      }
+    ]
+  },
+  {
+    "campaign_name": "men | athleisure cooling",
+    "creative_recommendations": [
+      {
+        "id": "men | _C1",
+        "headline": "Push comfort, not wires \u2014 everyday Best Seller",
+        "body": "Push comfort, not wires \u2014 everyday men boxers. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Learn more",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "men | _C2",
+        "headline": "Seamless confidence for every day \u2014 Limited Run",
+        "body": "Wire\u2011free ease, cloud\u2011soft cups \u2014 men athletic briefs that fits right. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Shop now",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "men | _C3",
+        "headline": "Ultra\u2011soft waistband, no marks \u2014 premium Limited Run",
+        "body": "3\u2011pack deal ends tonight \u2014 upgrade your men drawer with trunks. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Learn more",
+        "rationale": "Variation derived from top-performing message patterns"
+      }
+    ]
+  },
+  {
+    "campaign_name": "men signature soft",
+    "creative_recommendations": [
+      {
+        "id": "men si_C1",
+        "headline": "Breathable microfiber that moves with you Try Today",
+        "body": "Ultra\u2011soft waistband, no marks \u2014 premium men boxers. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Shop now",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "men si_C2",
+        "headline": "No ride\u2011up guarantee \u2014 best\u2011selling men Limited Run",
+        "body": "Stretch that snaps back \u2014 durable men briefs. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Get yours",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "men si_C3",
+        "headline": "Ultra\u2011soft waistband, no marks \u2014 premium Limited Run",
+        "body": "Invisible under tees \u2014 seamless men briefs. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Limited time",
+        "rationale": "Variation derived from top-performing message patterns"
+      }
+    ]
+  },
+  {
+    "campaign_name": "Women_|_Studio_Sports",
+    "creative_recommendations": [
+      {
+        "id": "Women__C1",
+        "headline": "No ride\u2011up guarantee \u2014 best\u2011selling women Limited Run",
+        "body": "Summer\u2011ready essentials \u2014 sweat\u2011wicking women panties. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Get yours",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "Women__C2",
+        "headline": "Summer\u2011ready essentials \u2014 sweat\u2011wicking women panties. \u2014 Now 20% Off",
+        "body": "All\u2011day comfort, zero pinch \u2014 try our women wire\u2011free bras! \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Learn more",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "Women__C3",
+        "headline": "Cooling mesh panels for workouts \u2014 Best Seller",
+        "body": "Summer\u2011ready essentials \u2014 sweat\u2011wicking women boyshorts. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Shop now",
+        "rationale": "Variation derived from top-performing message patterns"
+      }
+    ]
+  },
+  {
+    "campaign_name": "Men_ComfortMax_Launch",
+    "creative_recommendations": [
+      {
+        "id": "Men_Co_C1",
+        "headline": "Doctors recommend breathable organic cotton \u2014 Try Today",
+        "body": "Breathable cotton that moves with you \u2014 limited offer on men briefs. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Limited time",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "Men_Co_C2",
+        "headline": "Confidence starts inside \u2014 elevate with \u2014 Now 20% Off",
+        "body": "Summer\u2011ready essentials \u2014 sweat\u2011wicking men boxers. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Shop now",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "Men_Co_C3",
+        "headline": "Seamless confidence for every day \u2014 Best Seller",
+        "body": "Seamless confidence for every day \u2014 new men briefs. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Shop now",
+        "rationale": "Variation derived from top-performing message patterns"
+      }
+    ]
+  },
+  {
+    "campaign_name": "Women_Fit_&_Lift",
+    "creative_recommendations": [
+      {
+        "id": "Women__C1",
+        "headline": "Hot & comfy: women panties now Limited Run",
+        "body": "Hot & comfy: women boyshorts now 20% off \u2014 feel the difference. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Get yours",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "Women__C2",
+        "headline": "Cooling mesh panels for workouts \u2014 Best Seller",
+        "body": "All\u2011day comfort, zero pinch \u2014 try our women bras! \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Limited time",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "Women__C3",
+        "headline": "Hot & comfy: women boyshorts now Limited Run",
+        "body": "Breathable organic cotton that moves with you \u2014 limited offer on women wire\u2011free bras. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Learn more",
+        "rationale": "Variation derived from top-performing message patterns"
+      }
+    ]
+  },
+  {
+    "campaign_name": "WOMEN FIT & LIFT",
+    "creative_recommendations": [
+      {
+        "id": "WOMEN _C1",
+        "headline": "Cooling mesh panels for workouts \u2014 Try Today",
+        "body": "Hot & comfy: women sports bras now 20% off \u2014 feel the difference. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Limited time",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "WOMEN _C2",
+        "headline": "Ultra\u2011soft waistband, no marks \u2014 premium Limited Run",
+        "body": "No ride\u2011up guarantee \u2014 best\u2011selling women boyshorts back in stock. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Get yours",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "WOMEN _C3",
+        "headline": "Wire\u2011free ease, cloud\u2011soft cups \u2014 women Try Today",
+        "body": "Wire\u2011free ease, cloud\u2011soft cups \u2014 women wire\u2011free bras that fits right. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Limited time",
+        "rationale": "Variation derived from top-performing message patterns"
+      }
+    ]
+  },
+  {
+    "campaign_name": "Women-Studio Sports",
+    "creative_recommendations": [
+      {
+        "id": "Women-_C1",
+        "headline": "Seamless confidence for every day \u2014 Limited Run",
+        "body": "Push comfort, not wires \u2014 everyday women wire\u2011free bras. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Learn more",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "Women-_C2",
+        "headline": "Hot & comfy: women sports bras Try Today",
+        "body": "Summer\u2011ready essentials \u2014 sweat\u2011wicking women sports bras. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Learn more",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "Women-_C3",
+        "headline": "3\u2011pack deal ends tonight \u2014 upgrade Limited Run",
+        "body": "Ultra\u2011soft waistband, no marks \u2014 premium women sports bras. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Limited time",
+        "rationale": "Variation derived from top-performing message patterns"
+      }
+    ]
+  },
+  {
+    "campaign_name": "Women  Fit  &  Lift",
+    "creative_recommendations": [
+      {
+        "id": "Women _C1",
+        "headline": "Invisible under tees \u2014 seamless women Best Seller",
+        "body": "Hot & comfy: women panties now 20% off \u2014 feel the difference. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Shop now",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "Women _C2",
+        "headline": "Confidence starts inside \u2014 elevate with Best Seller",
+        "body": "Summer\u2011ready essentials \u2014 sweat\u2011wicking women sports bras. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Shop now",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "Women _C3",
+        "headline": "Invisible under tees \u2014 seamless women Best Seller",
+        "body": "Hot & comfy: women panties now 20% off \u2014 feel the difference. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Shop now",
+        "rationale": "Variation derived from top-performing message patterns"
+      }
+    ]
+  },
+  {
+    "campaign_name": "men bold colors drop",
+    "creative_recommendations": [
+      {
+        "id": "men bo_C1",
+        "headline": "No ride\u2011up guarantee \u2014 best\u2011selling men Limited Run",
+        "body": "Push comfort, not wires \u2014 everyday men athletic briefs. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Shop now",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "men bo_C2",
+        "headline": "Ultra\u2011soft waistband, no marks \u2014 premium Best Seller",
+        "body": "Ultra\u2011soft waistband, no marks \u2014 premium men trunks. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Learn more",
+        "rationale": "Variation derived from top-performing message patterns"
+      },
+      {
+        "id": "men bo_C3",
+        "headline": "Push comfort, not wires \u2014 everyday Try Today",
+        "body": "Invisible under tees \u2014 seamless men briefs. \u2014 Upgrade your comfort and confidence today.",
+        "cta": "Limited time",
+        "rationale": "Variation derived from top-performing message patterns"
+      }
+    ]
+  }
+]

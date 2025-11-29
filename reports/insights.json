@@ -1,0 +1,227 @@
+[
+  {
+    "hypothesis_id": "H_women Su",
+    "campaign_name": "women Summer Invisible",
+    "hypothesis": "Recent ROAS decreased relative to prior period; possible creative fatigue or audience saturation.",
+    "expected_signals": [
+      "ctr_decrease",
+      "impressions_stable_or_increase",
+      "cpa_increase"
+    ],
+    "confidence": 0.95,
+    "reasoning_steps": [
+      {
+        "think": "Compare recent vs prior ROAS and CTR"
+      },
+      {
+        "analyze": "ROAS change 0.12"
+      },
+      {
+        "conclude": "If ROAS drop with falling CTR, creative likely underperforming."
+      }
+    ],
+    "validated": true,
+    "evidence": "recent_ctr=0.0103, prior_ctr=0.0107",
+    "p_value": 5.913300663976836e-20
+  },
+  {
+    "hypothesis_id": "H_WOMEN Se",
+    "campaign_name": "WOMEN Seamless Everyday",
+    "hypothesis": "Recent ROAS decreased relative to prior period; possible creative fatigue or audience saturation.",
+    "expected_signals": [
+      "ctr_decrease",
+      "impressions_stable_or_increase",
+      "cpa_increase"
+    ],
+    "confidence": 0.95,
+    "reasoning_steps": [
+      {
+        "think": "Compare recent vs prior ROAS and CTR"
+      },
+      {
+        "analyze": "ROAS change 0.25"
+      },
+      {
+        "conclude": "If ROAS drop with falling CTR, creative likely underperforming."
+      }
+    ],
+    "validated": true,
+    "evidence": "recent_ctr=0.0073, prior_ctr=0.0088",
+    "p_value": 0.0
+  },
+  {
+    "hypothesis_id": "H_WOMEN Co",
+    "campaign_name": "WOMEN Cotton Classics",
+    "hypothesis": "Recent ROAS decreased relative to prior period; possible creative fatigue or audience saturation.",
+    "expected_signals": [
+      "ctr_decrease",
+      "impressions_stable_or_increase",
+      "cpa_increase"
+    ],
+    "confidence": 0.95,
+    "reasoning_steps": [
+      {
+        "think": "Compare recent vs prior ROAS and CTR"
+      },
+      {
+        "analyze": "ROAS change 0.11"
+      },
+      {
+        "conclude": "If ROAS drop with falling CTR, creative likely underperforming."
+      }
+    ],
+    "validated": true,
+    "evidence": "recent_ctr=0.0092, prior_ctr=0.0103",
+    "p_value": 4.636609442981531e-173
+  },
+  {
+    "hypothesis_id": "H_Women Fi",
+    "campaign_name": "Women Fit & Lift",
+    "hypothesis": "Recent ROAS decreased relative to prior period; possible creative fatigue or audience saturation.",
+    "expected_signals": [
+      "ctr_decrease",
+      "impressions_stable_or_increase",
+      "cpa_increase"
+    ],
+    "confidence": 0.3,
+    "reasoning_steps": [
+      {
+        "think": "Compare recent vs prior ROAS and CTR"
+      },
+      {
+        "analyze": "ROAS change 0.22"
+      },
+      {
+        "conclude": "If ROAS drop with falling CTR, creative likely underperforming."
+      }
+    ],
+    "validated": false,
+    "evidence": "recent_ctr=0.0176, prior_ctr=0.0165",
+    "p_value": 7.246352119627607e-74
+  },
+  {
+    "hypothesis_id": "H_Men Comf",
+    "campaign_name": "Men ComfortMax Launch",
+    "hypothesis": "Recent ROAS decreased relative to prior period; possible creative fatigue or audience saturation.",
+    "expected_signals": [
+      "ctr_decrease",
+      "impressions_stable_or_increase",
+      "cpa_increase"
+    ],
+    "confidence": 0.95,
+    "reasoning_steps": [
+      {
+        "think": "Compare recent vs prior ROAS and CTR"
+      },
+      {
+        "analyze": "ROAS change 0.42"
+      },
+      {
+        "conclude": "If ROAS drop with falling CTR, creative likely underperforming."
+      }
+    ],
+    "validated": true,
+    "evidence": "recent_ctr=0.0141, prior_ctr=0.0151",
+    "p_value": 4.264486273487397e-64
+  },
+  {
+    "hypothesis_id": "H_Women_|_",
+    "campaign_name": "Women_|_Studio_Sports",
+    "hypothesis": "Recent ROAS decreased relative to prior period; possible creative fatigue or audience saturation.",
+    "expected_signals": [
+      "ctr_decrease",
+      "impressions_stable_or_increase",
+      "cpa_increase"
+    ],
+    "confidence": 0.95,
+    "reasoning_steps": [
+      {
+        "think": "Compare recent vs prior ROAS and CTR"
+      },
+      {
+        "analyze": "ROAS change 0.24"
+      },
+      {
+        "conclude": "If ROAS drop with falling CTR, creative likely underperforming."
+      }
+    ],
+    "validated": true,
+    "evidence": "recent_ctr=0.0092, prior_ctr=0.0115",
+    "p_value": 1.1952879235869755e-207
+  },
+  {
+    "hypothesis_id": "H_WOMEN FI",
+    "campaign_name": "WOMEN FIT & LIFT",
+    "hypothesis": "Recent ROAS decreased relative to prior period; possible creative fatigue or audience saturation.",
+    "expected_signals": [
+      "ctr_decrease",
+      "impressions_stable_or_increase",
+      "cpa_increase"
+    ],
+    "confidence": 0.3,
+    "reasoning_steps": [
+      {
+        "think": "Compare recent vs prior ROAS and CTR"
+      },
+      {
+        "analyze": "ROAS change 0.17"
+      },
+      {
+        "conclude": "If ROAS drop with falling CTR, creative likely underperforming."
+      }
+    ],
+    "validated": false,
+    "evidence": "recent_ctr=0.0195, prior_ctr=0.0178",
+    "p_value": 3.835835721350025e-97
+  },
+  {
+    "hypothesis_id": "H_Women-St",
+    "campaign_name": "Women-Studio Sports",
+    "hypothesis": "Recent ROAS decreased relative to prior period; possible creative fatigue or audience saturation.",
+    "expected_signals": [
+      "ctr_decrease",
+      "impressions_stable_or_increase",
+      "cpa_increase"
+    ],
+    "confidence": 0.95,
+    "reasoning_steps": [
+      {
+        "think": "Compare recent vs prior ROAS and CTR"
+      },
+      {
+        "analyze": "ROAS change 0.22"
+      },
+      {
+        "conclude": "If ROAS drop with falling CTR, creative likely underperforming."
+      }
+    ],
+    "validated": true,
+    "evidence": "recent_ctr=0.0104, prior_ctr=0.0108",
+    "p_value": 3.701318414432668e-11
+  },
+  {
+    "hypothesis_id": "H_men | at",
+    "campaign_name": "men | athleisure cooling",
+    "hypothesis": "Recent ROAS decreased relative to prior period; possible creative fatigue or audience saturation.",
+    "expected_signals": [
+      "ctr_decrease",
+      "impressions_stable_or_increase",
+      "cpa_increase"
+    ],
+    "confidence": 0.95,
+    "reasoning_steps": [
+      {
+        "think": "Compare recent vs prior ROAS and CTR"
+      },
+      {
+        "analyze": "ROAS change 0.27"
+      },
+      {
+        "conclude": "If ROAS drop with falling CTR, creative likely underperforming."
+      }
+    ],
+    "validated": true,
+    "evidence": "recent_ctr=0.0193, prior_ctr=0.0198",
+    "p_value": 6.428117532622325e-10
+  }
+]
