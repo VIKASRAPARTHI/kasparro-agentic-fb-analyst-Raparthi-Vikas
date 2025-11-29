@@ -1,11 +1,19 @@
 import csv
 from datetime import datetime, timedelta
+from typing import List, Dict, Any, Tuple, Optional
+from pathlib import Path
 
 
 class DataAgent:
     def __init__(self, config):
         self.config = config
-        self.path = config.get('data', {}).get('path')
+        # allow a missing config path and fall back to the bundled sample dataset
+        cfg_path = config.get('data', {}).get('path') if config and isinstance(config, dict) else None
+        if cfg_path:
+            self.path = cfg_path
+        else:
+            # project-relative default
+            self.path = str(Path('data') / 'synthetic_fb_ads_undergarments.csv')
 
     def _parse_row(self, row):
         # Convert types where possible
@@ -26,12 +34,21 @@ class DataAgent:
         # keep creative_message as-is
         return out
 
-    def load_and_summarize(self):
-        rows = []
-        with open(self.path, 'r', encoding='utf-8') as f:
-            reader = csv.DictReader(f)
-            for r in reader:
-                rows.append(self._parse_row(r))
+    def load_and_summarize(self) -> Tuple[List[Dict[str, Any]], Dict[str, Any]]:
+        rows: List[Dict[str, Any]] = []
+        # attempt to open the dataset; if missing, return empty summary
+        try:
+            with open(self.path, 'r', encoding='utf-8') as f:
+                reader = csv.DictReader(f)
+                for r in reader:
+                    rows.append(self._parse_row(r))
+        except FileNotFoundError:
+            # Return empty structures but keep shapes expected by downstream code
+            summary = {'overall': [], 'recent': [], 'samples': []}
+            return rows, summary
+        except Exception:
+            summary = {'overall': [], 'recent': [], 'samples': []}
+            return rows, summary
 
         # compute overall aggregates by campaign
         by_campaign = {}
