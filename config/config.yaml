@@ -2,7 +2,6 @@
 data:
 random_seed: 42
 data:
-  # Using a small sample CSV included in the repository for quick runs
   path: "data/synthetic_fb_ads_undergarments.csv"
   sample_mode: true
 thresholds:
