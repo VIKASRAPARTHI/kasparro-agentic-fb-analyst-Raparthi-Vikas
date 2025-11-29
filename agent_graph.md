@@ -48,5 +48,3 @@ The orchestrator coordinates the agents:
 - The system was intentionally implemented without heavy numeric libs to improve portability; adding `pandas`/`scipy` would simplify computations but is optional.
 - Randomness is seeded (`random_seed` in `config/config.yaml`) for deterministic creative generation during review.
 - Tests: see `tests/test_evaluator.py` for a unit test exercising the evaluator's CTR-detection logic.
-
-If you want I can generate a small SVG/diagram of this flow and add it to the repo.
